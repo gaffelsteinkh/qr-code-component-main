@@ -5,14 +5,20 @@ body{
 
 .picturebox {
     border-radius: 5px;
-    width: 200px;
+    width: 300px;
     margin: 10px 10px;
 }
 
 .box{
     background-color: hsl(0, 0%, 100%);
     margin: 150px auto;
-    width: 300px;
+    width: 320px;
     height: auto;
     border-radius: 15px;
+}
+
+.paragraphtext{
+    font-size: 15px;
+    color: hsl(0, 0%, 70%);
+
 }
